@@ -1,3 +1,0 @@
-TOKEN = ""
-OPENWEATHERMAP_API_KEY = ""
-
